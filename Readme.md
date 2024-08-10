@@ -351,7 +351,7 @@ contract Lottery {
 - Value : 참가자가 선택한 번호
 
 
-`mapping(uint16 => address) public player;`
+`mapping(uint16 => address) public player`
 
 - Key : 선택한 번호
 - Value : 해당 번호를 선택한 참여자의 주소
